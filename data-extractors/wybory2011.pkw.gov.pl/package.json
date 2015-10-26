@@ -1,0 +1,14 @@
+{
+    "name": "jow-simulation",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+    },
+    "dependencies": {
+        "async": "1.5.0",
+        "q": "1.4.1",
+        "rekuire": "0.1.9",
+        "yargs": "3.29.0",
+        "request": "2.65.0"
+    }
+}
